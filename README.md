@@ -2,7 +2,7 @@
 Web API for WartungsLOG Xamarin APP with access to CosmosDB
 
 
-![architecture](Documentation/architecture drawing.png)
+![architecture](https://github.com/Stefan20162016/WartungsLOG_WL_WebAPI/blob/master/Documentation/architecture%20drawing.png)
 
 NOTES:
 
